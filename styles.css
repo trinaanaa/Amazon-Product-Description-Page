@@ -1,0 +1,33 @@
+.rating{
+    width:100px;
+    height: 20px;}
+  .breadcrumb{
+    color:#565959;
+    font-size:small ;
+  }
+  .heading{
+    font-weight: lighter;
+  }
+  .container{
+    display: flex;
+    justify-content:right;
+    margin:0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  /* .heading{
+    font-weight: light;
+  } */
+  .main-img{
+  
+    width: 450px;
+    box-shadow: 0px 2px 5px lightgray;
+  }
+  .img-wrapper{
+    margin: 20px;
+  } 
+  a {
+    color: #007185;
+  }
+  /* .book-content{
+ 
+  } */
